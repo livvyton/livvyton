@@ -2,7 +2,7 @@
 
 Data analyst living in Berlin, originally from New Zealand. 
 
-- 🔭 I’m upskilling online and looking for a full-time job
+- 🔭 Currently working at Infarm 🌱🌱
 - 🌱 I’m learning to use NLTK library for sentiment analysis 
 - 💬 Ask me about anything from music recommendations to any of my projects :)
 - 😄 Pronouns: she/her
